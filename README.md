@@ -1,2 +1,2 @@
 # Automated-File-Backup
-Currently saves from local D:
+Currently saves from local X:\ to network Y:\ 
